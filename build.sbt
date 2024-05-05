@@ -1,0 +1,14 @@
+name := "scala-at-light-speed"
+
+version := "0.1"
+
+scalaVersion := "2.13.1"
+
+libraryDependencies ++= Seq(
+  "com.softwaremill.sttp.client3" %% "core" % "3.7.0",
+  "com.softwaremill.sttp.client3" %% "circe" % "3.7.0",
+  "io.circe" %% "circe-generic" % "0.14.1",
+  "io.circe" %% "circe-parser" % "0.14.1",
+  "org.jfree" % "jfreechart" % "1.5.3"
+)
+
