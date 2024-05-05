@@ -1,0 +1,1 @@
+I uploaded my project to Github according to the method in the video of the exercise class. All the codes are in "src/main/scala/DMM2_Project", and the storage capacity file of the third function is also there. Before running, please configure your environment according to the dependencies in the "build.sbt" file.
